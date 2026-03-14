@@ -155,6 +155,10 @@ prcat 42 --provider ollama --model qwen2.5:7b           # larger local model
 
 - [critiq-action](https://github.com/faw21/critiq-action) — critiq as a GitHub Action for CI
 
+- [testfix](https://github.com/faw21/testfix) — AI test fixer — automatically fix failing tests
+
+- [mergefix](https://github.com/faw21/mergefix) — AI merge conflict resolver: fix all conflicts with one command
+
 ## License
 
 MIT — free for personal and commercial use.
