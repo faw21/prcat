@@ -113,6 +113,7 @@ standup-ai                          # generate standup from git commits
 
 # Before you push
 critiq                              # review YOUR own changes before pushing
+testfix pytest                      # 3. Auto-fix failing tests
 
 # When you submit a PR
 gpr                                 # generate PR description + commit message
@@ -155,7 +156,7 @@ prcat 42 --provider ollama --model qwen2.5:7b           # larger local model
 
 - [critiq-action](https://github.com/faw21/critiq-action) — critiq as a GitHub Action for CI
 
-- [testfix](https://github.com/faw21/testfix) — AI test fixer — automatically fix failing tests
+- [testfix](https://github.com/faw21/testfix) — AI failing test auto-fixer
 
 - [mergefix](https://github.com/faw21/mergefix) — AI merge conflict resolver: fix all conflicts with one command
 
