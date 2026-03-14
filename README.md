@@ -151,6 +151,10 @@ prcat 42 --provider openai --model gpt-4o               # OpenAI GPT-4o
 prcat 42 --provider ollama --model qwen2.5:7b           # larger local model
 ```
 
+- [difftests](https://github.com/faw21/difftests) — AI test generator from git diffs
+
+- [critiq-action](https://github.com/faw21/critiq-action) — critiq as a GitHub Action for CI
+
 ## License
 
 MIT — free for personal and commercial use.
